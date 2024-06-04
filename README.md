@@ -6,4 +6,4 @@ Ne fonctionne que sur Linux
 
 ### A éviter
 
-Les codes qui comprennent des mots réservés ou des séquences qui les comprennent aussi, tels qui 'int', 'float', 'double' etc seront espacés dans le code final
+Les codes qui comprennent des mots réservés ou des séquences qui les comprennent aussi, tels que 'int', 'float', 'double' etc seront espacés dans le code final
